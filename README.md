@@ -13,6 +13,6 @@ Contains the Practice Files used to learn ML algorithms
 
 datasets :
 
-kaggle : https://www.kaggle.com/datasets/priyankamohanta/taitanictrain
-kaggle : https://www.kaggle.com/datasets/uciml/iris
-kaggle : https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
+1. kaggle : https://www.kaggle.com/datasets/priyankamohanta/taitanictrain
+2. kaggle : https://www.kaggle.com/datasets/uciml/iris
+3. kaggle : https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
