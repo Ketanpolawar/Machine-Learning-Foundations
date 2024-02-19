@@ -8,3 +8,11 @@ Contains the Practice Files used to learn ML algorithms
 |4.| D-40-06(II).ipynb |SVM |
 |5.| D-40-06(IIi).ipynb | Random Forest |
 |6.| D-40-07.ipynb|Kmeans|
+
+
+
+datasets :
+
+kaggle : https://www.kaggle.com/datasets/priyankamohanta/taitanictrain
+kaggle : https://www.kaggle.com/datasets/uciml/iris
+kaggle : https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
